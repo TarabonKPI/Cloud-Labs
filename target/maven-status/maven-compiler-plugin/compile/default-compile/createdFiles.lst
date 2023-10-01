@@ -1,6 +1,0 @@
-signup/SignupApplication.class
-signup/UserNotFoundException.class
-signup/UserController.class
-signup/UserRepository.class
-signup/User.class
-signup/UserNotFoundAdvice.class
